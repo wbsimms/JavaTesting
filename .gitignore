@@ -1,1 +1,4 @@
 target/
+/ServletStateless/nbproject/private/
+/ServletStateless/build/
+/ServletStateless/dist/
